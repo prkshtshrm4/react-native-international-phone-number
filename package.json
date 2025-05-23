@@ -1,5 +1,5 @@
 {
-  "name": "git+https://github.com/prkshtshrm4/react-native-international-phone-number.git#master",
+  "name": "react-native-international-phone-number",
   "author": "AstrOOnauta (https://github.com/AstrOOnauta)",
   "version": "0.4.14",
   "description": "International mobile phone input component with mask for React Native",
